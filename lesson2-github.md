@@ -1,10 +1,15 @@
-# Exercise 02: Collaboration – Pull Requests
+### 📘 `/lessons/lesson2-github.md`
+```markdown
+# Lesson 2: GitHub & Remote Repositories
 
-## Goal: Contribute to a shared project via GitHub
+## Topics Covered
+- GitHub overview
+- Cloning a repository
+- Pushing and pulling
 
-Steps:
-1. Fork the `portfolio-cards` repository (provided by your teacher)
-2. Create a markdown file in `/cards/` named `yourname.md`
-3. Add your name, college, and GitHub profile link
-4. Commit and push your changes
-5. Open a Pull Request (PR) to the main repo
+## Commands to Try
+```bash
+git clone <repo-url>
+git push
+git pull
+git remote -v
